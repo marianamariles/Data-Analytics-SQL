@@ -20,6 +20,7 @@ Designed a data management system for the US Federal Aviation Administration (FA
 Phone 
 - Number 
 - Type 
+
 Person 
 - ID
 - First name 
@@ -29,37 +30,45 @@ Person
 - Date of Birth
 - Occupation 
 - City 
+
 City
 - Name
 - Country 
 - Population 
 - Area
+
 Airport 
 - Code 
 - Latitude
 - Longitude
 - Name
+
 Route
 - Origin Airport 
 - Destination Airport 
 Passenger 
 - Flayer Status
+
 Pilot
 - Years of Service 
 - Salary 
+
 Flight Attendant 
 - Rank
 - Salary
 - Years of Service 
+
 Airline 
 - Carrier 
 - Name
+
 Airplane: 
 - Tail Number 
 - Year
 - Manufacture
 - Model
 - Seats 
+
 Flight 
 - Flight Number 
 - Distance 
@@ -68,6 +77,7 @@ Flight
 - Departure Time
 - Arrival Time
 - Scheduled Arrival Time
+
 Ticket 
 - Fare 
 - Type 
