@@ -1,4 +1,4 @@
-# CS 3DB3 - Project
+# Database - Project
 
 ## About 
 
@@ -6,10 +6,10 @@ Designed a data management system for the US Federal Aviation Administration (FA
 
 ## File Content
 
-- ER Diagram to visualize relationships (er.pdf)
+- ER Diagram for visualizing relationships (er.pdf)
 - DDL for CREATE TABLE statements (createTables.ddl)
 - INSERT statements (loadData.ddl)
-- Queries (queries.pdf)
+- Multiple queries (queries.pdf)
 - SQL statements for queries (queries.sql)
 - SQL query results (queriesResults.txt)
 - Relational algebra expressions (ra.pdf) 
