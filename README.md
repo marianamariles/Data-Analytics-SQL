@@ -4,6 +4,11 @@
 
 Designed a data management system for the US Federal Aviation Administration (FAA) which includes people, airlines, airplanes, airports, etc. The primary objective is to perform data analytics over flights data for 2013 by writing SQL statements for various queries.
 
+## Goals 
+- Successfully designed a RDMS using ER diagram, relational schemes, and DDL implementation
+- executed SQL statements for various queries to analyze data of flights, useful for the FFA.
+- Improved the performance of the system's workload by evaluating and implementing the most beneficial indexes
+
 ## File Content
 
 - ER Diagram for visualizing relationships (er.pdf)
